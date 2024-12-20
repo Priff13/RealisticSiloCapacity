@@ -1,0 +1,10 @@
+{
+  "UniqueID": "Priff13.RealisticSiloCapacity",
+  "Name": "RealisticSiloCapacity",
+  "Author": "Priff13",
+  "Version": "1.0.0",
+  "Description": "Implements realistic silo capacity, now being able to hold up to 330,000 hay.",
+  "MinimumApiVersion": "4.0.0",
+  "EntryDll": "RealisticSiloCapacity.dll",
+  "UpdateKeys": []
+}
